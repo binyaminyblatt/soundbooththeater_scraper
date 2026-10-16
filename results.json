@@ -10038,5 +10038,57 @@
     ],
     "releaseDate": "2026-07-28T00:00:00.000Z",
     "length": "Length: 12 hours and 31 minutes"
+  },
+  {
+    "id": "406919",
+    "url": "https://soundbooththeater.com/shop/audiobooks/natural-magic-book-2-the-witches-catalogue-of-wanderlust-essentials/",
+    "title": "Natural Magic, Book 2: The Witches Catalogue of Wanderlust Essentials",
+    "author": "Ciara Blume",
+    "cover": "https://soundbooththeater.com/wp-content/uploads/2026/03/TheMudpuddleNM_Book02_Cover.jpg",
+    "synopsis": "Fate is written in stone. Destiny is yours to shape—if you’re willing to wield the chisel.",
+    "copyright": "When a cursed bloodstone goes missing before an eclipse set to unleash its dark influence, three strangers find their fates suddenly and impossibly intertwined.",
+    "authorBio": null,
+    "series": [
+      "Natural Magic"
+    ],
+    "narrators": [
+      "Ryan H. Reid",
+      "Jessica Threet",
+      "Andrea Parsneau",
+      "Travis Baldree",
+      "Dorrie Sacks"
+    ],
+    "genres": [
+      "Cozy",
+      "Fantasy",
+      "Humor"
+    ],
+    "releaseDate": "2026-03-17T00:00:00.000Z",
+    "length": "Length: 11 hours and 37 minutes"
+  },
+  {
+    "id": "406072",
+    "url": "https://soundbooththeater.com/shop/audiobooks/natural-magic-book-1-the-mudpuddle-manual-of-natural-magic/",
+    "title": "Natural Magic, Book 1: The Mudpuddle Manual of Natural Magic",
+    "author": "Ciara Blume",
+    "cover": "https://soundbooththeater.com/wp-content/uploads/2025/06/TheMudpuddleNM_Book01_Cover.jpg",
+    "synopsis": "A murder, a mystery, and a not-so-overactive imagination…",
+    "copyright": "Eccentric heiress, Maida Westabrook, treasures her peaceful, “ordinary” life in California — morning strolls along the beach, warm evenings by the fire, and losing herself in her beloved library of myths and legends. Yet Maida can’t shake the nagging feeling that there’s more to her story than she’s been led to believe. Strange and inexplicable occurrences have always surrounded her, dismissed as nothing more than her overactive imagination.",
+    "authorBio": null,
+    "series": [
+      "Natural Magic"
+    ],
+    "narrators": [
+      "Ryan H. Reid",
+      "Andrea Parsneau",
+      "Travis Baldree",
+      "Jessica Threet"
+    ],
+    "genres": [
+      "Fantasy",
+      "Humor"
+    ],
+    "releaseDate": "2025-06-24T00:00:00.000Z",
+    "length": "Length: 12 hours and 44 minutes"
   }
 ]
