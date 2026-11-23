@@ -10090,5 +10090,98 @@
     ],
     "releaseDate": "2025-06-24T00:00:00.000Z",
     "length": "Length: 12 hours and 44 minutes"
+  },
+  {
+    "id": "271258",
+    "url": "https://soundbooththeater.com/shop/audiobooks/industrial-strength-magic-part-1-episode-5/",
+    "title": "Industrial Strength Magic: Part 1, Episode 5",
+    "author": "Macronomicon",
+    "cover": "https://soundbooththeater.com/wp-content/uploads/2023/10/IndStrengthMagic_Cover.jpg",
+    "synopsis": null,
+    "copyright": "Book synopsis",
+    "authorBio": null,
+    "series": [],
+    "narrators": [
+      "Steve Campbell",
+      "Annie Ellicott",
+      "Justin Thomas James",
+      "Jeff Hays"
+    ],
+    "genres": [
+      "Action/Adventure",
+      "GameLit",
+      "Superheroes"
+    ],
+    "releaseDate": "2023-11-21T00:00:00.000Z",
+    "length": "Length: 1 hour and 33 minutes"
+  },
+  {
+    "id": "271255",
+    "url": "https://soundbooththeater.com/shop/audiobooks/industrial-strength-magic-part-1-episode-4/",
+    "title": "Industrial Strength Magic: Part 1, Episode 4",
+    "author": "Macronomicon",
+    "cover": "https://soundbooththeater.com/wp-content/uploads/2023/10/IndStrengthMagic_Cover.jpg",
+    "synopsis": null,
+    "copyright": "Book synopsis",
+    "authorBio": null,
+    "series": [],
+    "narrators": [
+      "Steve Campbell",
+      "Annie Ellicott",
+      "Justin Thomas James",
+      "Jeff Hays"
+    ],
+    "genres": [
+      "Action/Adventure",
+      "GameLit",
+      "Superheroes"
+    ],
+    "releaseDate": "2023-11-16T00:00:00.000Z",
+    "length": "Length: 1 hour and 35 minutes"
+  },
+  {
+    "id": "271037",
+    "url": "https://soundbooththeater.com/shop/audiobooks/industrial-strength-magic-part-1-episode-2/",
+    "title": "Industrial Strength Magic: Part 1, Episode 2",
+    "author": "Macronomicon",
+    "cover": "https://soundbooththeater.com/wp-content/uploads/2023/10/IndStrengthMagic_Cover.jpg",
+    "synopsis": null,
+    "copyright": "Book synopsis",
+    "authorBio": null,
+    "series": [],
+    "narrators": [
+      "Steve Campbell",
+      "Annie Ellicott",
+      "Justin Thomas James",
+      "Jeff Hays"
+    ],
+    "genres": [
+      "Action/Adventure",
+      "GameLit",
+      "Superheroes"
+    ],
+    "releaseDate": "2023-11-02T00:00:00.000Z",
+    "length": "Length: 1 hour and 29 minutes"
+  },
+  {
+    "id": "375805",
+    "url": "https://soundbooththeater.com/shop/audiobooks/monster-hunt-nyc-book-1-bonus-cinematic-audio-excerpt-chapters-1-5/",
+    "title": "Monster Hunt NYC, Book 1 – BONUS Cinematic Audio Excerpt (Chapters 1-5)",
+    "author": "Harmon Cooper",
+    "cover": "https://soundbooththeater.com/wp-content/uploads/2020/07/MHNYC1_Cooper.jpg",
+    "synopsis": "Chapters 1-5 of Monster Hunt NYC, Book 1: Earth Force 1",
+    "copyright": "",
+    "authorBio": null,
+    "series": [],
+    "narrators": [
+      "Jeff Hays",
+      "Annie Ellicott"
+    ],
+    "genres": [
+      "GameLit",
+      "Science Fiction"
+    ],
+    "releaseDate": "1970-01-01T00:00:00.000Z",
+    "length": null
   }
 ]
